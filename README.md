@@ -1,15 +1,13 @@
-- 👋 Hi, I’m @Habibieproject
-- 👀 I’m interested in Software Engineering especially use Flutter
-- 🌱 I’m currently learning Building Application
+<p align="center"><img src="https://media.tenor.com/images/49e8bbc5b4245a62076c898a713e8a28/tenor.gif" width="150" style="margin-right:100" />                    </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, Nice to see you.</h1>
+<h3 align="center">I'm Habibie, Mobile developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
+
+I am a mobile developer, living in Payakumbuh, Indonesia. I mostly work with Dart (Flutter).
 - 👯 I’m looking to collaborate for a Flutter
 
 ### Tech & Tools Preference
 
-<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white" /><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 ### You can find in me in the web 🌍
 [<img align="left" alt="Habibieproject | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
