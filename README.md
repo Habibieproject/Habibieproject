@@ -1,9 +1,28 @@
 <p align="center"><img src="https://media.tenor.com/images/49e8bbc5b4245a62076c898a713e8a28/tenor.gif" width="150" style="margin-right:100" />                    </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, Nice to see you.</h1>
-<h3 align="center">I'm Habibie, Mobile developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, I'm Andrea Surya Habibie.</h1>
+<h3 align="center">Habibie, Mobile developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
 
 I am a mobile developer, living in Payakumbuh, Indonesia. I mostly work with Dart (Flutter).
 - 👯 I’m looking to collaborate for a Flutter
+
+- 🔭 I’m currently working on **on in a company that focuses on mobile applications**
+
+- 🌱 I’m currently learning **any kind of mobile dev Flutter**
+
+- 👯 I’m looking to collaborate on **Dart, Firebase, and Framework Flutter**
+
+- 🤝 I’m looking for help with **any kind of mobile dev Flutter**
+
+- 💬 Ask me about **Religion, Technology, Leadership, eFootball Pes**
+
+- 📫 How to reach me **projecthabibie@gmail.com**
+
+- ⚡ Fun fact **I am a sociable person, funny and loyal to the people closest to me.**
+
+### My Github Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibieproject&show_icons=true&locale=en&layout=compact" alt="Habibieproject" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Habibieproject&show_icons=true&locale=en" alt="Habibieproject" /></p>
+
 
 ### Tech & Tools Preference
 
@@ -12,6 +31,7 @@ I am a mobile developer, living in Payakumbuh, Indonesia. I mostly work with Dar
 ### You can find in me in the web 🌍
 [<img align="left" alt="Habibieproject | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Habibieproject | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Habibieproject | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][medium]
 
 <br/>
 
@@ -26,6 +46,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 [instagram]: https://www.instagram.com/as_habibie17
 [linkedin]: https://www.linkedin.com/in/andrea-surya-habibie
+[medium]: https://medium.com/@as_habibie17
 
 <!---
 Habibieproject/Habibieproject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
