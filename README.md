@@ -42,7 +42,10 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [habibieproject](https://github.com/habibieproject)
+:star: From [habibieproject](https://github.com/habibieproject) or
+<br/>
+
+<a href="https://www.buymeacoffee.com/ashabibie17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 [instagram]: https://www.instagram.com/as_habibie17
 [linkedin]: https://www.linkedin.com/in/andrea-surya-habibie
