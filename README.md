@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, I'm Andrea Surya Habibie.</h1>
 <h3 align="center">Habibie, Mobile developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
 
-I am a mobile developer, living in Payakumbuh, Indonesia. I mostly work with Dart (Flutter).
+I am a mobile developer, living in Tangerang, Indonesia. I mostly work with Dart (Flutter).
 - 👯 I’m looking to collaborate for a Flutter
 
 - 🔭 I’m currently working on **on in a company that focuses on mobile applications**
