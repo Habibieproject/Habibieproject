@@ -1,57 +1,58 @@
-<p align="center"><img src="https://media.tenor.com/images/49e8bbc5b4245a62076c898a713e8a28/tenor.gif" width="150" style="margin-right:100" />                    </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, I'm Andrea Surya Habibie.</h1>
-<h3 align="center">Habibie, Mobile developer from <img src="https://hatscripts.github.io/circle-flags/flags/id.svg" width="18"> <b>Indonesia</b>.</h3>
+<p align="center">
+  <img src="https://media.tenor.com/images/49e8bbc5b4245a62076c898a713e8a28/tenor.gif" width="150" />
+</p>
 
-I am a mobile developer, living in Tangerang, Indonesia. I mostly work with Dart (Flutter).
-- 👯 I’m looking to collaborate for a Flutter
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" />, I'm Andrea Surya Habibie</h1>
+<h3 align="center">Mobile Developer | IT Instructor | Fullstack Enthusiast</h3>
 
-- 🔭 I’m currently working on **on in a company that focuses on mobile applications**
-
-- 🌱 I’m currently learning **any kind of mobile dev Flutter**
-
-- 👯 I’m looking to collaborate on **Dart, Firebase, and Framework Flutter**
-
-- 🤝 I’m looking for help with **any kind of mobile dev Flutter**
-
-- 💬 Ask me about **Religion, Technology, Leadership, eFootball Pes**
-
-- 📫 How to reach me **projecthabibie@gmail.com**
-
-- ⚡ Fun fact **I am a sociable person, funny and loyal to the people closest to me.**
-
-### My Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibieproject&show_icons=true&locale=en&layout=compact" alt="Habibieproject" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Habibieproject&show_icons=true&locale=en" alt="Habibieproject" /></p>
-
-
-### Tech & Tools Preference
-
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=FFFFFF"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0747a6?style=flat-square&logo=bitbucket&logoColor=white" /><img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-orange?style=flat-square&logo=gitlab&logoColor=white" /><img alt="PHP" src="https://img.shields.io/badge/php-blueviolet?style=flat-square&logo=php&logoColor=white" /><img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-
-### You can find in me in the web 🌍
-[<img align="left" alt="Habibieproject | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Habibieproject | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Habibieproject | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />][medium]
-
-<br/>
-
+<p align="center">
+  <a href="https://techabibie.com"><b>techabibie.com</b></a> • 
+  <a href="https://iame.site"><b>iame.site</b></a>
+</p>
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+### 👨‍💻 About Me
+I am a seasoned **Mobile Developer** with **4+ years of experience** specializing in the **Flutter & Dart** ecosystem. Based in Tangerang, Indonesia, I balance my time between building production-grade applications and mentoring the next generation of developers.
 
-**Check the Repositories and don't forget to give a star.** 👇
+- 🔭 **Current Focus:** Crafting seamless mobile experiences at **Mosfeed** and leading IT training at **PPKD Jakarta Pusat**.
+- 🌱 **Learning:** Deep diving into **Signals for State Management** and exploring **AI-driven development tools**.
+- 🚀 **Mission:** Empowering others through tech education via my branding **@techabibie**.
+- 💬 **Ask me about:** Flutter, Laravel, Python, Leadership, and how to win in **eFootball**.
+- 📫 **Reach me:** [projecthabibie@gmail.com](mailto:projecthabibie@gmail.com)
 
-:star: From [habibieproject](https://github.com/habibieproject) or
-<br/>
+---
 
-<a href="https://www.buymeacoffee.com/ashabibie17" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+### 🛠️ Tech Stack & Tools
 
-[instagram]: https://www.instagram.com/as_habibie17
-[linkedin]: https://www.linkedin.com/in/andrea-surya-habibie
-[medium]: https://medium.com/@as_habibie17
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Database & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Workflow** | ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=github-copilot&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![MacOS](https://img.shields.io/badge/Mac_OS-000000?style=flat&logo=apple&logoColor=white) |
 
-<!---
-Habibieproject/Habibieproject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Habibieproject&show_icons=true&theme=tokyonight&count_private=true" alt="Habibie Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibieproject&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/andrea-surya-habibie"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/as_habibie17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://medium.com/@as_habibie17"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://techabibie.com"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+</p>
+
+---
+
+**Don't forget to check my repositories and leave a ⭐ if you find something useful!**
+
+<a href="https://www.buymeacoffee.com/ashabibie17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
