@@ -27,18 +27,18 @@ I am a seasoned **Mobile Developer** with **4+ years of experience** specializin
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 | **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Database & Cloud** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Cloud & DB** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
 | **Workflow** | ![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat&logo=github-copilot&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![MacOS](https://img.shields.io/badge/Mac_OS-000000?style=flat&logo=apple&logoColor=white) |
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habibieproject&show_icons=true&theme=tokyonight&count_private=true" alt="Habibie Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibieproject&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=Habibieproject&show_icons=true&theme=radical" alt="Habibie Stats" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibieproject&show_icons=true&theme=radical&layout=compact" alt="Top Langs" />
 </p>
 
 ---
