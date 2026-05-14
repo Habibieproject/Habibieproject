@@ -6,8 +6,7 @@
 <h3 align="center">Mobile Developer | IT Instructor | Fullstack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://techabibie.com"><b>techabibie.com</b></a> • 
-  <a href="https://iame.site"><b>iame.site</b></a>
+  <a href="https://techabibie.com"><b>techabibie.com</b></a> 
 </p>
 
 ---
