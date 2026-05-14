@@ -92,8 +92,8 @@ I am a seasoned **Mobile Developer** with **4+ years of experience** specializin
 ---
 
 ### 📊 GitHub Stats
-![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/puliczek/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 ---
