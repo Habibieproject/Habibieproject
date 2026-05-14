@@ -21,6 +21,14 @@ I am a seasoned **Mobile Developer** with **4+ years of experience** specializin
 - 💬 **Ask me about:** Flutter, Laravel, Python, Leadership, and how to win in **eFootball**.
 - 📫 **Reach me:** [projecthabibie@gmail.com](mailto:projecthabibie@gmail.com)
 
+#### 🧠 Growth & Mindset
+<p align="left">
+<img src="https://img.shields.io/badge/Growth_Mindset-🌱-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Lifelong_Learner-📚-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Self_Development-🚀-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Framework_Thinking-💡-yellow?style=for-the-badge" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack & Tools
