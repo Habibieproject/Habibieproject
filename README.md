@@ -35,11 +35,8 @@ I am a seasoned **Mobile Developer** with **4+ years of experience** specializin
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Habibieproject&show_icons=true&theme=dark&hide_border=false&cache_seconds=1800" alt="Habibie Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibieproject&show_icons=true&theme=dark&layout=compact&hide_border=false&cache_seconds=1800" alt="Top Langs" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Habibieproject&show_icons=true&locale=en&layout=compact" alt="Habibieproject" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Habibieproject&show_icons=true&locale=en" alt="Habibieproject" /></p>
 
 ---
 
