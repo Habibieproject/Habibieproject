@@ -92,10 +92,16 @@ I am a seasoned **Mobile Developer** with **4+ years of experience** specializin
 ---
 
 ### 📊 GitHub Stats
-![GITHUB Stats](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![GITHUB Stats](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/Habibieproject/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Habibieproject&theme=tokyonight&area=true" width="100%" />
+</p>
 
+### 📈 Metrics
+<p align="center">
+  <img src="https://metrics.lecoq.io/Habibieproject?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&config.timezone=Asia%2FJakarta" alt="Habibie Metrics" />
+</p>
 ---
 
 ### 🌐 Connect with Me
